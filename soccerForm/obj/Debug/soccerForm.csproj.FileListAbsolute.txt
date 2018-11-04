@@ -1,0 +1,153 @@
+C:\Users\kryj9\Desktop\응소실_\팀프로젝트\soccerForm\soccerForm\bin\Debug\soccerForm.exe.config
+C:\Users\kryj9\Desktop\응소실_\팀프로젝트\soccerForm\soccerForm\bin\Debug\soccerForm.exe
+C:\Users\kryj9\Desktop\응소실_\팀프로젝트\soccerForm\soccerForm\bin\Debug\soccerForm.pdb
+C:\Users\kryj9\Desktop\응소실_\팀프로젝트\soccerForm\soccerForm\obj\Debug\soccerForm.csprojResolveAssemblyReference.cache
+C:\Users\kryj9\Desktop\응소실_\팀프로젝트\soccerForm\soccerForm\obj\Debug\soccerForm.Form1.resources
+C:\Users\kryj9\Desktop\응소실_\팀프로젝트\soccerForm\soccerForm\obj\Debug\soccerForm.Properties.Resources.resources
+C:\Users\kryj9\Desktop\응소실_\팀프로젝트\soccerForm\soccerForm\obj\Debug\soccerForm.csproj.GenerateResource.cache
+C:\Users\kryj9\Desktop\응소실_\팀프로젝트\soccerForm\soccerForm\obj\Debug\soccerForm.csproj.CoreCompileInputs.cache
+C:\Users\kryj9\Desktop\응소실_\팀프로젝트\soccerForm\soccerForm\obj\Debug\soccerForm.exe
+C:\Users\kryj9\Desktop\응소실_\팀프로젝트\soccerForm\soccerForm\obj\Debug\soccerForm.pdb
+C:\Users\tingp\Desktop\팀프로젝트\팀프로젝트\soccerForm\soccerForm\bin\Debug\soccerForm.exe.config
+C:\Users\tingp\Desktop\팀프로젝트\팀프로젝트\soccerForm\soccerForm\bin\Debug\soccerForm.exe
+C:\Users\tingp\Desktop\팀프로젝트\팀프로젝트\soccerForm\soccerForm\bin\Debug\soccerForm.pdb
+C:\Users\tingp\Desktop\팀프로젝트\팀프로젝트\soccerForm\soccerForm\obj\Debug\soccerForm.csprojResolveAssemblyReference.cache
+C:\Users\tingp\Desktop\팀프로젝트\팀프로젝트\soccerForm\soccerForm\obj\Debug\soccerForm.Form1.resources
+C:\Users\tingp\Desktop\팀프로젝트\팀프로젝트\soccerForm\soccerForm\obj\Debug\soccerForm.Properties.Resources.resources
+C:\Users\tingp\Desktop\팀프로젝트\팀프로젝트\soccerForm\soccerForm\obj\Debug\soccerForm.csproj.GenerateResource.Cache
+C:\Users\tingp\Desktop\팀프로젝트\팀프로젝트\soccerForm\soccerForm\obj\Debug\soccerForm.csproj.CoreCompileInputs.cache
+C:\Users\tingp\Desktop\팀프로젝트\팀프로젝트\soccerForm\soccerForm\obj\Debug\soccerForm.exe
+C:\Users\tingp\Desktop\팀프로젝트\팀프로젝트\soccerForm\soccerForm\obj\Debug\soccerForm.pdb
+C:\Users\조혜진\Documents\Visual Studio 2015\Projects\soccerForm\soccerForm\bin\Debug\soccerForm.exe.config
+C:\Users\조혜진\Documents\Visual Studio 2015\Projects\soccerForm\soccerForm\obj\Debug\soccerForm.exe
+C:\Users\조혜진\Documents\Visual Studio 2015\Projects\soccerForm\soccerForm\obj\Debug\soccerForm.pdb
+C:\Users\조혜진\Documents\Visual Studio 2015\Projects\soccerForm\soccerForm\bin\Debug\soccerForm.exe
+C:\Users\조혜진\Documents\Visual Studio 2015\Projects\soccerForm\soccerForm\bin\Debug\soccerForm.pdb
+C:\Users\조혜진\Documents\Visual Studio 2015\Projects\soccerForm\soccerForm\obj\Debug\soccerForm.csprojResolveAssemblyReference.cache
+C:\Users\조혜진\Documents\Visual Studio 2015\Projects\soccerForm\soccerForm\obj\Debug\soccerForm.Form1.resources
+C:\Users\조혜진\Documents\Visual Studio 2015\Projects\soccerForm\soccerForm\obj\Debug\soccerForm.Properties.Resources.resources
+C:\Users\조혜진\Documents\Visual Studio 2015\Projects\soccerForm\soccerForm\obj\Debug\soccerForm.csproj.GenerateResource.Cache
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccerForm1\soccerForm\soccerForm\bin\Debug\soccerForm.exe.config
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccerForm1\soccerForm\soccerForm\bin\Debug\soccerForm.exe
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccerForm1\soccerForm\soccerForm\bin\Debug\soccerForm.pdb
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccerForm1\soccerForm\soccerForm\obj\Debug\soccerForm.csprojResolveAssemblyReference.cache
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccerForm1\soccerForm\soccerForm\obj\Debug\soccerForm.Form1.resources
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccerForm1\soccerForm\soccerForm\obj\Debug\soccerForm.Form_Join.resources
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccerForm1\soccerForm\soccerForm\obj\Debug\soccerForm.Properties.Resources.resources
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccerForm1\soccerForm\soccerForm\obj\Debug\soccerForm.csproj.GenerateResource.cache
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccerForm1\soccerForm\soccerForm\obj\Debug\soccerForm.csproj.CoreCompileInputs.cache
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccerForm1\soccerForm\soccerForm\obj\Debug\soccerForm.csproj.CopyComplete
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccerForm1\soccerForm\soccerForm\obj\Debug\soccerForm.exe
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccerForm1\soccerForm\soccerForm\obj\Debug\soccerForm.pdb
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccerForm1\soccerForm\soccerForm\bin\Debug\MySql.Data.dll
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccerForm1\soccerForm\soccerForm\bin\Debug\Packet_Library.dll
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccerForm1\soccerForm\soccerForm\bin\Debug\Packet_Library.pdb
+C:\Users\조혜진\Documents\Visual Studio 2015\Projects\soccerForm\soccerForm\bin\Debug\MySql.Data.dll
+C:\Users\조혜진\Documents\Visual Studio 2015\Projects\soccerForm\soccerForm\bin\Debug\Packet_Library.dll
+C:\Users\조혜진\Documents\Visual Studio 2015\Projects\soccerForm\soccerForm\bin\Debug\Packet_Library.pdb
+C:\Users\조혜진\Documents\Visual Studio 2015\Projects\soccerForm\soccerForm\obj\Debug\soccerForm.chat.resources
+C:\Users\조혜진\Documents\Visual Studio 2015\Projects\soccerForm\soccerForm\obj\Debug\soccerForm.Form_Join.resources
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccerForm (1)\soccerForm\bin\Debug\soccerForm.exe.config
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccerForm (1)\soccerForm\bin\Debug\soccerForm.exe
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccerForm (1)\soccerForm\bin\Debug\soccerForm.pdb
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccerForm (1)\soccerForm\bin\Debug\MySql.Data.dll
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccerForm (1)\soccerForm\bin\Debug\Packet_Library.dll
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccerForm (1)\soccerForm\bin\Debug\Packet_Library.pdb
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccerForm (1)\soccerForm\obj\Debug\soccerForm.csprojResolveAssemblyReference.cache
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccerForm (1)\soccerForm\obj\Debug\soccerForm.chat.resources
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccerForm (1)\soccerForm\obj\Debug\soccerForm.Form1.resources
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccerForm (1)\soccerForm\obj\Debug\soccerForm.Form_Join.resources
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccerForm (1)\soccerForm\obj\Debug\soccerForm.Properties.Resources.resources
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccerForm (1)\soccerForm\obj\Debug\soccerForm.sendMsg.resources
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccerForm (1)\soccerForm\obj\Debug\soccerForm.csproj.GenerateResource.cache
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccerForm (1)\soccerForm\obj\Debug\soccerForm.csproj.CoreCompileInputs.cache
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccerForm (1)\soccerForm\obj\Debug\soccerForm.csproj.CopyComplete
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccerForm (1)\soccerForm\obj\Debug\soccerForm.exe
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccerForm (1)\soccerForm\obj\Debug\soccerForm.pdb
+C:\Users\조혜진\Desktop\soccerForm (1)\soccerForm (1)\soccerForm\bin\Debug\soccerForm.exe.config
+C:\Users\조혜진\Desktop\soccerForm (1)\soccerForm (1)\soccerForm\obj\Debug\soccerForm.exe
+C:\Users\조혜진\Desktop\soccerForm (1)\soccerForm (1)\soccerForm\obj\Debug\soccerForm.pdb
+C:\Users\조혜진\Documents\Visual Studio 2015\Projects\soccerForm\soccerForm\obj\Debug\soccerForm.sendMsg.resources
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccer_Server\soccerForm\bin\Debug\soccerForm.exe.config
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccer_Server\soccerForm\bin\Debug\soccerForm.exe
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccer_Server\soccerForm\bin\Debug\soccerForm.pdb
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccer_Server\soccerForm\bin\Debug\MySql.Data.dll
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccer_Server\soccerForm\bin\Debug\Packet_Library.dll
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccer_Server\soccerForm\bin\Debug\Packet_Library.pdb
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccer_Server\soccerForm\obj\Debug\soccerForm.csprojAssemblyReference.cache
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccer_Server\soccerForm\obj\Debug\soccerForm.chat.resources
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccer_Server\soccerForm\obj\Debug\soccerForm.Form1.resources
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccer_Server\soccerForm\obj\Debug\soccerForm.Form_Join.resources
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccer_Server\soccerForm\obj\Debug\soccerForm.Properties.Resources.resources
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccer_Server\soccerForm\obj\Debug\soccerForm.sendMsg.resources
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccer_Server\soccerForm\obj\Debug\soccerForm.csproj.GenerateResource.cache
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccer_Server\soccerForm\obj\Debug\soccerForm.csproj.CoreCompileInputs.cache
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccer_Server\soccerForm\obj\Debug\soccerForm.csproj.CopyComplete
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccer_Server\soccerForm\obj\Debug\soccerForm.exe
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccer_Server\soccerForm\obj\Debug\soccerForm.pdb
+C:\Users\조혜진\Documents\Visual Studio 2015\Projects\soccerForm\soccerForm\obj\Debug\soccerForm.match.resources
+C:\Users\kryj9\Documents\카카오톡 받은 파일\.vs\soccerForm\bin\Debug\soccerForm.exe.config
+C:\Users\kryj9\Documents\카카오톡 받은 파일\.vs\soccerForm\bin\Debug\soccerForm.exe
+C:\Users\kryj9\Documents\카카오톡 받은 파일\.vs\soccerForm\bin\Debug\soccerForm.pdb
+C:\Users\kryj9\Documents\카카오톡 받은 파일\.vs\soccerForm\bin\Debug\MySql.Data.dll
+C:\Users\kryj9\Documents\카카오톡 받은 파일\.vs\soccerForm\bin\Debug\Packet_Library.dll
+C:\Users\kryj9\Documents\카카오톡 받은 파일\.vs\soccerForm\bin\Debug\Packet_Library.pdb
+C:\Users\kryj9\Documents\카카오톡 받은 파일\.vs\soccerForm\obj\Debug\soccerForm.csprojAssemblyReference.cache
+C:\Users\kryj9\Documents\카카오톡 받은 파일\.vs\soccerForm\obj\Debug\soccerForm.chat.resources
+C:\Users\kryj9\Documents\카카오톡 받은 파일\.vs\soccerForm\obj\Debug\soccerForm.Form1.resources
+C:\Users\kryj9\Documents\카카오톡 받은 파일\.vs\soccerForm\obj\Debug\soccerForm.Form_Join.resources
+C:\Users\kryj9\Documents\카카오톡 받은 파일\.vs\soccerForm\obj\Debug\soccerForm.match.resources
+C:\Users\kryj9\Documents\카카오톡 받은 파일\.vs\soccerForm\obj\Debug\soccerForm.Properties.Resources.resources
+C:\Users\kryj9\Documents\카카오톡 받은 파일\.vs\soccerForm\obj\Debug\soccerForm.sendMsg.resources
+C:\Users\kryj9\Documents\카카오톡 받은 파일\.vs\soccerForm\obj\Debug\soccerForm.csproj.GenerateResource.cache
+C:\Users\kryj9\Documents\카카오톡 받은 파일\.vs\soccerForm\obj\Debug\soccerForm.csproj.CoreCompileInputs.cache
+C:\Users\kryj9\Documents\카카오톡 받은 파일\.vs\soccerForm\obj\Debug\soccerForm.csproj.CopyComplete
+C:\Users\kryj9\Documents\카카오톡 받은 파일\.vs\soccerForm\obj\Debug\soccerForm.exe
+C:\Users\kryj9\Documents\카카오톡 받은 파일\.vs\soccerForm\obj\Debug\soccerForm.pdb
+C:\Users\kryj9\Documents\카카오톡 받은 파일\.vs\soccerForm\obj\Debug\soccerForm.Client_Setting.resources
+C:\Users\조혜진\Documents\Visual Studio 2015\Projects\soccerForm\soccerForm\obj\Debug\soccerForm.Client_Setting.resources
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccer_Server\soccerForm\obj\Debug\soccerForm.Client_Setting.resources
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccer_Server\soccerForm\obj\Debug\soccerForm.match.resources
+C:\Users\조혜진\Documents\Visual Studio 2015\Projects\soccerForm\soccerForm\obj\Debug\soccerForm.Result.resources
+C:\Users\kryj9\Documents\카카오톡 받은 파일\MySql.Data\soccerForm\bin\Debug\soccerForm.exe.config
+C:\Users\kryj9\Documents\카카오톡 받은 파일\MySql.Data\soccerForm\bin\Debug\soccerForm.exe
+C:\Users\kryj9\Documents\카카오톡 받은 파일\MySql.Data\soccerForm\bin\Debug\soccerForm.pdb
+C:\Users\kryj9\Documents\카카오톡 받은 파일\MySql.Data\soccerForm\bin\Debug\MySql.Data.dll
+C:\Users\kryj9\Documents\카카오톡 받은 파일\MySql.Data\soccerForm\bin\Debug\Packet_Library.dll
+C:\Users\kryj9\Documents\카카오톡 받은 파일\MySql.Data\soccerForm\bin\Debug\Packet_Library.pdb
+C:\Users\kryj9\Documents\카카오톡 받은 파일\MySql.Data\soccerForm\obj\Debug\soccerForm.csprojAssemblyReference.cache
+C:\Users\kryj9\Documents\카카오톡 받은 파일\MySql.Data\soccerForm\obj\Debug\soccerForm.chat.resources
+C:\Users\kryj9\Documents\카카오톡 받은 파일\MySql.Data\soccerForm\obj\Debug\soccerForm.Client_Setting.resources
+C:\Users\kryj9\Documents\카카오톡 받은 파일\MySql.Data\soccerForm\obj\Debug\soccerForm.Form1.resources
+C:\Users\kryj9\Documents\카카오톡 받은 파일\MySql.Data\soccerForm\obj\Debug\soccerForm.Form_Join.resources
+C:\Users\kryj9\Documents\카카오톡 받은 파일\MySql.Data\soccerForm\obj\Debug\soccerForm.match.resources
+C:\Users\kryj9\Documents\카카오톡 받은 파일\MySql.Data\soccerForm\obj\Debug\soccerForm.Properties.Resources.resources
+C:\Users\kryj9\Documents\카카오톡 받은 파일\MySql.Data\soccerForm\obj\Debug\soccerForm.Result.resources
+C:\Users\kryj9\Documents\카카오톡 받은 파일\MySql.Data\soccerForm\obj\Debug\soccerForm.sendMsg.resources
+C:\Users\kryj9\Documents\카카오톡 받은 파일\MySql.Data\soccerForm\obj\Debug\soccerForm.csproj.GenerateResource.cache
+C:\Users\kryj9\Documents\카카오톡 받은 파일\MySql.Data\soccerForm\obj\Debug\soccerForm.csproj.CoreCompileInputs.cache
+C:\Users\kryj9\Documents\카카오톡 받은 파일\MySql.Data\soccerForm\obj\Debug\soccerForm.csproj.CopyComplete
+C:\Users\kryj9\Documents\카카오톡 받은 파일\MySql.Data\soccerForm\obj\Debug\soccerForm.exe
+C:\Users\kryj9\Documents\카카오톡 받은 파일\MySql.Data\soccerForm\obj\Debug\soccerForm.pdb
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccerForm\soccerForm\bin\Debug\soccerForm.exe.config
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccerForm\soccerForm\bin\Debug\soccerForm.exe
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccerForm\soccerForm\bin\Debug\soccerForm.pdb
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccerForm\soccerForm\bin\Debug\MySql.Data.dll
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccerForm\soccerForm\bin\Debug\Packet_Library.dll
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccerForm\soccerForm\bin\Debug\Packet_Library.pdb
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccerForm\soccerForm\obj\Debug\soccerForm.csprojAssemblyReference.cache
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccerForm\soccerForm\obj\Debug\soccerForm.chat.resources
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccerForm\soccerForm\obj\Debug\soccerForm.Client_Setting.resources
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccerForm\soccerForm\obj\Debug\soccerForm.Form1.resources
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccerForm\soccerForm\obj\Debug\soccerForm.Form_Join.resources
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccerForm\soccerForm\obj\Debug\soccerForm.match.resources
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccerForm\soccerForm\obj\Debug\soccerForm.Properties.Resources.resources
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccerForm\soccerForm\obj\Debug\soccerForm.Result.resources
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccerForm\soccerForm\obj\Debug\soccerForm.sendMsg.resources
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccerForm\soccerForm\obj\Debug\soccerForm.csproj.GenerateResource.cache
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccerForm\soccerForm\obj\Debug\soccerForm.csproj.CoreCompileInputs.cache
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccerForm\soccerForm\obj\Debug\soccerForm.csproj.CopyComplete
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccerForm\soccerForm\obj\Debug\soccerForm.exe
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccerForm\soccerForm\obj\Debug\soccerForm.pdb
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccerForm\soccerForm\obj\Debug\soccerForm.PwClientSetting.resources
+C:\Users\조혜진\Documents\Visual Studio 2015\Projects\soccerForm\soccerForm\obj\Debug\soccerForm.PwClientSetting.resources

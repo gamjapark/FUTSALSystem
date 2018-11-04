@@ -1,0 +1,110 @@
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccerForm1\soccerForm\soccer_Server\bin\Debug\soccer_Server.exe.config
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccerForm1\soccerForm\soccer_Server\bin\Debug\soccer_Server.exe
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccerForm1\soccerForm\soccer_Server\bin\Debug\soccer_Server.pdb
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccerForm1\soccerForm\soccer_Server\bin\Debug\Packet_Library.dll
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccerForm1\soccerForm\soccer_Server\bin\Debug\Packet_Library.pdb
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccerForm1\soccerForm\soccer_Server\obj\Debug\soccer_Server.csprojResolveAssemblyReference.cache
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccerForm1\soccerForm\soccer_Server\obj\Debug\soccer_Server.Form1.resources
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccerForm1\soccerForm\soccer_Server\obj\Debug\soccer_Server.Properties.Resources.resources
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccerForm1\soccerForm\soccer_Server\obj\Debug\soccer_Server.csproj.GenerateResource.cache
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccerForm1\soccerForm\soccer_Server\obj\Debug\soccer_Server.csproj.CoreCompileInputs.cache
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccerForm1\soccerForm\soccer_Server\obj\Debug\soccer_Server.csproj.CopyComplete
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccerForm1\soccerForm\soccer_Server\obj\Debug\soccer_Server.exe
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccerForm1\soccerForm\soccer_Server\obj\Debug\soccer_Server.pdb
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccerForm1\soccerForm\soccer_Server\bin\Debug\MySql.Data.dll
+C:\Users\조혜진\Documents\Visual Studio 2015\Projects\soccerForm\soccer_Server\bin\Debug\soccer_Server.exe.config
+C:\Users\조혜진\Documents\Visual Studio 2015\Projects\soccerForm\soccer_Server\obj\Debug\soccer_Server.exe
+C:\Users\조혜진\Documents\Visual Studio 2015\Projects\soccerForm\soccer_Server\obj\Debug\soccer_Server.pdb
+C:\Users\조혜진\Documents\Visual Studio 2015\Projects\soccerForm\soccer_Server\bin\Debug\soccer_Server.exe
+C:\Users\조혜진\Documents\Visual Studio 2015\Projects\soccerForm\soccer_Server\bin\Debug\soccer_Server.pdb
+C:\Users\조혜진\Documents\Visual Studio 2015\Projects\soccerForm\soccer_Server\bin\Debug\MySql.Data.dll
+C:\Users\조혜진\Documents\Visual Studio 2015\Projects\soccerForm\soccer_Server\bin\Debug\Packet_Library.dll
+C:\Users\조혜진\Documents\Visual Studio 2015\Projects\soccerForm\soccer_Server\bin\Debug\Packet_Library.pdb
+C:\Users\조혜진\Documents\Visual Studio 2015\Projects\soccerForm\soccer_Server\obj\Debug\soccer_Server.csprojResolveAssemblyReference.cache
+C:\Users\조혜진\Documents\Visual Studio 2015\Projects\soccerForm\soccer_Server\obj\Debug\soccer_Server.Form1.resources
+C:\Users\조혜진\Documents\Visual Studio 2015\Projects\soccerForm\soccer_Server\obj\Debug\soccer_Server.Properties.Resources.resources
+C:\Users\조혜진\Documents\Visual Studio 2015\Projects\soccerForm\soccer_Server\obj\Debug\soccer_Server.csproj.GenerateResource.Cache
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccerForm (1)\soccer_Server\bin\Debug\soccer_Server.exe.config
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccerForm (1)\soccer_Server\bin\Debug\soccer_Server.exe
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccerForm (1)\soccer_Server\bin\Debug\soccer_Server.pdb
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccerForm (1)\soccer_Server\bin\Debug\MySql.Data.dll
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccerForm (1)\soccer_Server\bin\Debug\Packet_Library.dll
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccerForm (1)\soccer_Server\bin\Debug\Packet_Library.pdb
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccerForm (1)\soccer_Server\obj\Debug\soccer_Server.csprojResolveAssemblyReference.cache
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccerForm (1)\soccer_Server\obj\Debug\soccer_Server.Form1.resources
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccerForm (1)\soccer_Server\obj\Debug\soccer_Server.Properties.Resources.resources
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccerForm (1)\soccer_Server\obj\Debug\soccer_Server.csproj.GenerateResource.cache
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccerForm (1)\soccer_Server\obj\Debug\soccer_Server.csproj.CoreCompileInputs.cache
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccerForm (1)\soccer_Server\obj\Debug\soccer_Server.csproj.CopyComplete
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccerForm (1)\soccer_Server\obj\Debug\soccer_Server.exe
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccerForm (1)\soccer_Server\obj\Debug\soccer_Server.pdb
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccer_Server\soccer_Server\bin\Debug\soccer_Server.exe.config
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccer_Server\soccer_Server\bin\Debug\soccer_Server.exe
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccer_Server\soccer_Server\bin\Debug\soccer_Server.pdb
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccer_Server\soccer_Server\bin\Debug\MySql.Data.dll
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccer_Server\soccer_Server\bin\Debug\Packet_Library.dll
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccer_Server\soccer_Server\bin\Debug\Packet_Library.pdb
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccer_Server\soccer_Server\obj\Debug\soccer_Server.csprojAssemblyReference.cache
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccer_Server\soccer_Server\obj\Debug\soccer_Server.Form1.resources
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccer_Server\soccer_Server\obj\Debug\soccer_Server.Properties.Resources.resources
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccer_Server\soccer_Server\obj\Debug\soccer_Server.csproj.GenerateResource.cache
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccer_Server\soccer_Server\obj\Debug\soccer_Server.csproj.CoreCompileInputs.cache
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccer_Server\soccer_Server\obj\Debug\soccer_Server.csproj.CopyComplete
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccer_Server\soccer_Server\obj\Debug\soccer_Server.exe
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccer_Server\soccer_Server\obj\Debug\soccer_Server.pdb
+C:\Users\kryj9\Documents\카카오톡 받은 파일\.vs\soccer_Server\bin\Debug\soccer_Server.exe.config
+C:\Users\kryj9\Documents\카카오톡 받은 파일\.vs\soccer_Server\bin\Debug\soccer_Server.exe
+C:\Users\kryj9\Documents\카카오톡 받은 파일\.vs\soccer_Server\bin\Debug\soccer_Server.pdb
+C:\Users\kryj9\Documents\카카오톡 받은 파일\.vs\soccer_Server\bin\Debug\MySql.Data.dll
+C:\Users\kryj9\Documents\카카오톡 받은 파일\.vs\soccer_Server\bin\Debug\Packet_Library.dll
+C:\Users\kryj9\Documents\카카오톡 받은 파일\.vs\soccer_Server\bin\Debug\Packet_Library.pdb
+C:\Users\kryj9\Documents\카카오톡 받은 파일\.vs\soccer_Server\obj\Debug\soccer_Server.csprojAssemblyReference.cache
+C:\Users\kryj9\Documents\카카오톡 받은 파일\.vs\soccer_Server\obj\Debug\soccer_Server.Form1.resources
+C:\Users\kryj9\Documents\카카오톡 받은 파일\.vs\soccer_Server\obj\Debug\soccer_Server.Properties.Resources.resources
+C:\Users\kryj9\Documents\카카오톡 받은 파일\.vs\soccer_Server\obj\Debug\soccer_Server.csproj.GenerateResource.cache
+C:\Users\kryj9\Documents\카카오톡 받은 파일\.vs\soccer_Server\obj\Debug\soccer_Server.csproj.CoreCompileInputs.cache
+C:\Users\kryj9\Documents\카카오톡 받은 파일\.vs\soccer_Server\obj\Debug\soccer_Server.csproj.CopyComplete
+C:\Users\kryj9\Documents\카카오톡 받은 파일\.vs\soccer_Server\obj\Debug\soccer_Server.exe
+C:\Users\kryj9\Documents\카카오톡 받은 파일\.vs\soccer_Server\obj\Debug\soccer_Server.pdb
+C:\Users\kryj9\Documents\카카오톡 받은 파일\MySql.Data\soccer_Server\bin\Debug\soccer_Server.exe.config
+C:\Users\kryj9\Documents\카카오톡 받은 파일\MySql.Data\soccer_Server\bin\Debug\soccer_Server.exe
+C:\Users\kryj9\Documents\카카오톡 받은 파일\MySql.Data\soccer_Server\bin\Debug\soccer_Server.pdb
+C:\Users\kryj9\Documents\카카오톡 받은 파일\MySql.Data\soccer_Server\bin\Debug\MySql.Data.dll
+C:\Users\kryj9\Documents\카카오톡 받은 파일\MySql.Data\soccer_Server\bin\Debug\Packet_Library.dll
+C:\Users\kryj9\Documents\카카오톡 받은 파일\MySql.Data\soccer_Server\bin\Debug\Packet_Library.pdb
+C:\Users\kryj9\Documents\카카오톡 받은 파일\MySql.Data\soccer_Server\obj\Debug\soccer_Server.csprojAssemblyReference.cache
+C:\Users\kryj9\Documents\카카오톡 받은 파일\MySql.Data\soccer_Server\obj\Debug\soccer_Server.Form1.resources
+C:\Users\kryj9\Documents\카카오톡 받은 파일\MySql.Data\soccer_Server\obj\Debug\soccer_Server.Properties.Resources.resources
+C:\Users\kryj9\Documents\카카오톡 받은 파일\MySql.Data\soccer_Server\obj\Debug\soccer_Server.csproj.GenerateResource.cache
+C:\Users\kryj9\Documents\카카오톡 받은 파일\MySql.Data\soccer_Server\obj\Debug\soccer_Server.csproj.CoreCompileInputs.cache
+C:\Users\kryj9\Documents\카카오톡 받은 파일\MySql.Data\soccer_Server\obj\Debug\soccer_Server.csproj.CopyComplete
+C:\Users\kryj9\Documents\카카오톡 받은 파일\MySql.Data\soccer_Server\obj\Debug\soccer_Server.exe
+C:\Users\kryj9\Documents\카카오톡 받은 파일\MySql.Data\soccer_Server\obj\Debug\soccer_Server.pdb
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccerForm\soccer_Server\bin\Debug\soccer_Server.exe.config
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccerForm\soccer_Server\bin\Debug\soccer_Server.exe
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccerForm\soccer_Server\bin\Debug\soccer_Server.pdb
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccerForm\soccer_Server\bin\Debug\MySql.Data.dll
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccerForm\soccer_Server\bin\Debug\Packet_Library.dll
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccerForm\soccer_Server\bin\Debug\Packet_Library.pdb
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccerForm\soccer_Server\obj\Debug\soccer_Server.csprojAssemblyReference.cache
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccerForm\soccer_Server\obj\Debug\soccer_Server.Form1.resources
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccerForm\soccer_Server\obj\Debug\soccer_Server.Properties.Resources.resources
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccerForm\soccer_Server\obj\Debug\soccer_Server.csproj.GenerateResource.cache
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccerForm\soccer_Server\obj\Debug\soccer_Server.csproj.CoreCompileInputs.cache
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccerForm\soccer_Server\obj\Debug\soccer_Server.csproj.CopyComplete
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccerForm\soccer_Server\obj\Debug\soccer_Server.exe
+C:\Users\kryj9\Documents\카카오톡 받은 파일\soccerForm\soccer_Server\obj\Debug\soccer_Server.pdb
+C:\Users\kryj9\Downloads\3학년1학기\3학년1학기\응소실_\팀프로젝트\8조프로젝트\프로젝트파일\soccer_Server\bin\Debug\soccer_Server.exe.config
+C:\Users\kryj9\Downloads\3학년1학기\3학년1학기\응소실_\팀프로젝트\8조프로젝트\프로젝트파일\soccer_Server\bin\Debug\soccer_Server.exe
+C:\Users\kryj9\Downloads\3학년1학기\3학년1학기\응소실_\팀프로젝트\8조프로젝트\프로젝트파일\soccer_Server\bin\Debug\soccer_Server.pdb
+C:\Users\kryj9\Downloads\3학년1학기\3학년1학기\응소실_\팀프로젝트\8조프로젝트\프로젝트파일\soccer_Server\bin\Debug\MySql.Data.dll
+C:\Users\kryj9\Downloads\3학년1학기\3학년1학기\응소실_\팀프로젝트\8조프로젝트\프로젝트파일\soccer_Server\bin\Debug\Packet_Library.dll
+C:\Users\kryj9\Downloads\3학년1학기\3학년1학기\응소실_\팀프로젝트\8조프로젝트\프로젝트파일\soccer_Server\bin\Debug\Packet_Library.pdb
+C:\Users\kryj9\Downloads\3학년1학기\3학년1학기\응소실_\팀프로젝트\8조프로젝트\프로젝트파일\soccer_Server\obj\Debug\soccer_Server.csprojAssemblyReference.cache
+C:\Users\kryj9\Downloads\3학년1학기\3학년1학기\응소실_\팀프로젝트\8조프로젝트\프로젝트파일\soccer_Server\obj\Debug\soccer_Server.Form1.resources
+C:\Users\kryj9\Downloads\3학년1학기\3학년1학기\응소실_\팀프로젝트\8조프로젝트\프로젝트파일\soccer_Server\obj\Debug\soccer_Server.Properties.Resources.resources
+C:\Users\kryj9\Downloads\3학년1학기\3학년1학기\응소실_\팀프로젝트\8조프로젝트\프로젝트파일\soccer_Server\obj\Debug\soccer_Server.csproj.GenerateResource.cache
+C:\Users\kryj9\Downloads\3학년1학기\3학년1학기\응소실_\팀프로젝트\8조프로젝트\프로젝트파일\soccer_Server\obj\Debug\soccer_Server.csproj.CoreCompileInputs.cache
+C:\Users\kryj9\Downloads\3학년1학기\3학년1학기\응소실_\팀프로젝트\8조프로젝트\프로젝트파일\soccer_Server\obj\Debug\soccer_Server.csproj.CopyComplete
+C:\Users\kryj9\Downloads\3학년1학기\3학년1학기\응소실_\팀프로젝트\8조프로젝트\프로젝트파일\soccer_Server\obj\Debug\soccer_Server.exe
+C:\Users\kryj9\Downloads\3학년1학기\3학년1학기\응소실_\팀프로젝트\8조프로젝트\프로젝트파일\soccer_Server\obj\Debug\soccer_Server.pdb
